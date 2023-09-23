@@ -15,3 +15,5 @@ $ git commit -m  'message : "example" '
 $ git push
 
 to change the branch : $ Git checkout update_script
+
+to download manuly added repo use this command : git pull
