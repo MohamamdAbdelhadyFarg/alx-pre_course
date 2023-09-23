@@ -1,0 +1,17 @@
+commands : 
+
+main dir : $ cd /c/Users/mahme/alx-pre_course/alx-pre_course/0x01-git/
+
+
+go back : cd ..
+
+1- 
+$ git add .
+
+2-
+$ git commit -m  'message : "example" '
+
+3-
+$ git push
+
+to change the branch : $ Git checkout update_script
